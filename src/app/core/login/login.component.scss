@@ -1,0 +1,157 @@
+// .eye-icon{
+//     top: 40px;
+//     right: 25px;
+// }
+
+
+
+
+// .login-headers {
+//     margin-bottom: 20px;
+//     padding: 30px 0px 30px;
+//     background-image: url("/assets/image/Login-bg.png");
+//   }
+//   h1.login-header-text {
+//     color: #fff;
+//     text-align: center;
+//     font-size: 26px;
+//     font-family: Montserrat-reg;
+//   }
+//   h4.login-header-text {
+//     color: #fff;
+//     text-align: center;
+//     font-size: 14px;
+//   }
+//   .btns{
+//     width: 100%;
+//   }
+  
+//   .form-group .fa {
+//     position: absolute;
+//     right: 15px;
+//     top: 8px;
+//     color: #999;
+//   }
+  
+  
+  
+//   .btnSS {
+//     display: inline-block;
+//     padding: 18px 12px;
+//     /* margin-left: 125px; */
+//     font-size: 15px;
+//     font-weight: normal;
+//     line-height: 1.42857143;
+//     text-align: center;
+//     white-space: nowrap;
+//     vertical-align: middle;
+//     cursor: pointer;
+//     -webkit-user-select: none;
+//     -moz-user-select: none;
+//     -ms-user-select: none;
+//     user-select: none;
+//     background-image: none;
+//     border: 1px solid transparent;
+//     border-radius: 4px;
+//   }
+  
+  
+  
+  
+  
+//   .btn-link{
+//     color:white;
+  
+//   }
+//   .modal-heading h2{
+//     color:#ffffff;
+//   }
+  
+
+  //old csss
+  .login-form {
+    width: 400px;
+    padding: 0px 0px 10px;
+    background: #ffffff;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 10px;
+    margin: auto;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 50%;
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    overflow: hidden;
+    border: 1px solid #ddd;
+    box-shadow: 0px 2px 2px #ddd;
+  }
+
+
+.login-headers {
+  margin-bottom: 20px;
+  padding: 30px 0px 30px;
+  // background-image: url("/assets/image/Login-bg.png");
+  background-image: url("../../../assets/images/Login-bg.png");
+}
+h1.login-header-text {
+  color: #fff;
+  text-align: center;
+  font-size: 26px;
+  font-family: Montserrat-reg;
+}
+h4.login-header-text {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+}
+.btns{
+  width: 100%;
+}
+
+.form-group .fa {
+  position: absolute;
+  right: 15px;
+  top: 8px;
+  color: #999;
+}
+
+
+
+.btnSS {
+  display: inline-block;
+  padding: 18px 12px;
+  /* margin-left: 125px; */
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+
+
+
+
+.btn-link{
+  color:white;
+
+}
+.modal-heading h2{
+  color:#ffffff;
+}
+
+
+//old css over
